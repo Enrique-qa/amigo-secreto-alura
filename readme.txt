@@ -1,3 +1,5 @@
+![Badge do Curso](assets/image.png)
+
 Um projeto simples para sortear nomes de amigos secretos.
 
 Projeto para o Challenge de lógica e programação para o progama Oracle ONE
