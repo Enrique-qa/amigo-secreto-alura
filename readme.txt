@@ -1,4 +1,4 @@
-![Badge do Curso](assets/image.png)
+![badge](assets/image.png)
 
 Um projeto simples para sortear nomes de amigos secretos.
 
